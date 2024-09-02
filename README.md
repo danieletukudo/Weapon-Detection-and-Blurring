@@ -1,6 +1,6 @@
 
 
-# Weapon Detection and Blurring using YOLOv8
+# Weapon Detection and Blurring using Ultralytics
 
 This project demonstrates a method for detecting weapons in images using a YOLOv8 model and automatically blurring the detected weapon regions. This can be useful in security applications to identify and obscure weapons in images for privacy and safety purposes.
 
@@ -33,8 +33,8 @@ To set up this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/weapon-detection-blur.git
-   cd weapon-detection-blur
+   git clone https://github.com/danieletukudo/Weapon-Detection-and-Blurring.git
+   cd Weapon-Detection-and-Blurring
    ```
 
 2. **Install required packages**:
