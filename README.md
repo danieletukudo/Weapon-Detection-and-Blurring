@@ -67,11 +67,10 @@ To use the weapon detection and blurring functionality, follow these steps:
    Execute the script using Python:
 
    ```bash
-   python weapon_detection_blur.py
+   python main.py
    ```
 
-   Replace `weapon_detection_blur.py` with the actual script name if different.
-
+   
 3. **View the output**:
 
    The script will load the specified image, detect weapons using the YOLOv8 model, apply a blur to the detected weapon regions, and display the processed image in a window titled "Weapon Detection Output".
